@@ -7,7 +7,7 @@ sslcheck=0
 
 [{{USERNAME}}-devel-source]
 name={{USERNAME}} repository devel
-baseurl=http://rbrepo.redborder.lan/ng/devel/{{USERNAME}}/rhel/9/SPRMS/
+baseurl=http://rbrepo.redborder.lan/ng/devel/{{USERNAME}}/rhel/9/SRPMS/
 gpgcheck=0
 enabled=0
 sslcheck=0
