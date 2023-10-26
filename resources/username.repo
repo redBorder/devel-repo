@@ -1,0 +1,13 @@
+[{{USERNAME}}-devel]
+name={{USERNAME}} repository devel
+baseurl=http://rbrepo.redborder.lan/ng/devel/{{USERNAME}}/rhel/9/x86_64/
+gpgcheck=0
+enabled=1
+sslcheck=0
+
+[{{USERNAME}}-devel-source]
+name={{USERNAME}} repository devel
+baseurl=http://rbrepo.redborder.lan/ng/devel/{{USERNAME}}/rhel/9/SPRMS/
+gpgcheck=0
+enabled=0
+sslcheck=0
