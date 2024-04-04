@@ -1,6 +1,0 @@
-[dvanhoucke-devel]
-name=dvanhoucke repository devel
-baseurl=http://rbrepo.redborder.lan/dvanhoucke/
-gpgcheck=0
-enabled=1
-sslcheck=0
