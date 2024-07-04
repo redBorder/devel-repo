@@ -6,7 +6,7 @@ Summary: package for user devel rhel9 redBorder repository
 
 Group: System Environment/Base
 License: GPLv2
-URL: https://github.com/dvanhoucke/redborder-repo
+URL: https://github.com/redBorder/devel-repo
 Source0: %{name}-%{version}.tar.gz
 Requires: epel-release
 
@@ -34,6 +34,8 @@ rm -rf $RPM_BUILD_ROOT
 /etc/pki/rpm-gpg/RPM-GPG-KEY-redborder-repo
 
 %changelog
+* Thu Jul 04 2024 Luis Blanco <ljblanco@redborder.com> - 0.0.3-1
+- Aditional github URL is unnecessary, when should use this one
 * Thu Oct 26 2023 David Vanhoucke <dvanhoucke@redborder.com> - 0.0.2-1
 - update rhel9
 * Thu Jan 28 2020 David Vanhoucke <dvanhoucke@redborder.com> - 0.0.1-1
