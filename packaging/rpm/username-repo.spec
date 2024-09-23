@@ -38,5 +38,5 @@ rm -rf $RPM_BUILD_ROOT
 - Aditional github URL is unnecessary, when should use this one
 * Thu Oct 26 2023 David Vanhoucke <dvanhoucke@redborder.com> - 0.0.2-1
 - update rhel9
-* Thu Jan 28 2020 David Vanhoucke <dvanhoucke@redborder.com> - 0.0.1-1
+* Thu Jan 28 2021 David Vanhoucke <dvanhoucke@redborder.com> - 0.0.1-1
 - first spec version
